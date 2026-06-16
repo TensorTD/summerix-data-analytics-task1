@@ -37,15 +37,6 @@ This project focuses on Data Cleaning, Exploratory Data Analysis (EDA), and Busi
 
 * Canon imageCLASS Series generated the highest sales ($61,599.82).
 
-## Project Status
-
-* [x] Data Cleaning
-* [x] Data Quality Checks
-* [x] Exploratory Data Analysis
-* [ ] SQL Analysis
-* [ ] Dashboard Creation
-* [ ] Final Report
-      
 ## SQL Analysis
 
 ### Sales by Region

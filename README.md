@@ -50,23 +50,16 @@ This project focuses on Data Cleaning, Exploratory Data Analysis (EDA), and Busi
 
 ### Sales by Region
 
-* West Region generated the highest sales ($725,457.82).
-* South Region generated the lowest sales ($391,721.91).
+![Sales by Region](screenshot/sales%20by%20region%20sql.png)
 
 ### Profit by Category
 
-* Technology was the most profitable category.
-* Furniture was the least profitable category.
+![Profit by Category](screenshot/profit%20by%20category%20sql.png)
 
-### Key Metrics
+### Summary Metrics
 
-* Total Sales: $2,297,200.86
-* Total Profit: $286,397.02
-* Total Orders: 5,009
-* Total Quantity Sold: 37,873
-* Average Sales: $229.86
+![Summary Metrics](screenshot/summary%20metrics%20sql.png)
 
-### Top Customer by Profit
+### Top Profit Customers
 
-* Tamara Chand generated the highest profit ($8,981.32).
-
+![Top Profit Customers](screenshot/top%20profit%20customers%20sql.png)
